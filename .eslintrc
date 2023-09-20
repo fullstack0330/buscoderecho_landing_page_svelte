@@ -1,0 +1,8 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "plugin:unicorn/recommended",
+    "plugin:svelte/recommended"
+  ],
+  "env": { "browser": true }
+}
